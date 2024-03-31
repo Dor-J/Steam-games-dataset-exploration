@@ -2,8 +2,6 @@
 Project Overview
 This repository contains an in-depth analysis of the Steam games dataset, exploring various facets of the gaming industry. The project uncovers insights into game popularity, success factors, audience targeting, platform preferences, and pricing strategies.
 
-Steam Games Optional: Insert an image or visualization from your project here.
-
 Key Features
 1. Most Played Games
 Identifies the top 10 most played games based on different playtime metrics, revealing trends in popularity and engagement.
@@ -28,6 +26,7 @@ Python
 Pandas
 Matplotlib
 Seaborn
+
 How to Run
 Clone the repository and open the Jupyter Notebook (Steam games dataset exploration.ipynb) in a Jupyter environment. Ensure that the required libraries are installed.
 
